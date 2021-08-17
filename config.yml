@@ -34,7 +34,7 @@ dockitems_persist:
     path: "/Applications/Fantastical.app"
     pos: 3
   - name: Things
-    path: "/Applications/Things.app<"
+    path: "/Applications/Things.app"
     pos: 4
   - name: Bear
     path: "/Applications/Bear.app"
