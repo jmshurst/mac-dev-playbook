@@ -67,8 +67,16 @@ homebrew_cask_apps:
   - vlc
 
 # See `geerlingguy.mas` role documentation for usage instructions.
-mas_installed_apps: []
-mas_email: ""
+mas_installed_apps:
+  - { id: 904280696, name: "Things" }
+  - { id: 413857545, name: "Divvy" }
+  - { id: 1290358394, name: "Cardhop" }
+  - { id: 497799835, name: "Xcode" }
+  - { id: 975937182, name: "Fantastical" }
+  - { id: 445189367, name: "PopClip" }
+  - { id: 1091189122, name: "Bear" }
+
+mas_email: "justinhurst@me.com"
 mas_password: ""
 
 osx_script: "~/.osx --no-restart"
