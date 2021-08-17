@@ -47,10 +47,10 @@ dockitems_persist:
     pos: 7
   - name: Books
     path: /Applications/Books.app
-    pos: 6
+    pos: 8
   - name: iTerm2
     path: /Applications/iTerm.app
-    pos: 7
+    pos: 9
 
 
 configure_sudoers: false
