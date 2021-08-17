@@ -31,25 +31,25 @@ dockitems_persist:
     path: "/Applications/Mail.app"
     pos: 2
   - name: Fantastical
-    path: /Applications/Fantastical.app
+    path: "/Applications/Fantastical.app"
     pos: 3
   - name: Things
-    path: /Applications/Things.app
+    path: "/Applications/Things.app<"
     pos: 4
   - name: Bear
-    path: /Applications/Bear.app
+    path: "/Applications/Bear.app"
     pos: 5
   - name: Google Chrome
-    path: /Applications/Google Chrome.app
+    path: "/Applications/Google Chrome.app"
     pos: 6
   - name: Music
-    path: /Applications/Music.app
+    path: "/Applications/Music.app"
     pos: 7
   - name: Books
-    path: /Applications/Books.app
+    path: "/Applications/Books.app"
     pos: 8
   - name: iTerm2
-    path: /Applications/iTerm.app
+    path: "/Applications/iTerm.app"
     pos: 9
 
 
